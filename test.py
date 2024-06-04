@@ -1,1 +1,3 @@
-print("Hello worlds!")
+str = "broo what"
+another = list(str)
+print(another)
