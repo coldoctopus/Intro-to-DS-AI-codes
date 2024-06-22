@@ -1,3 +1,3 @@
 str = "broo what"
 another = list(str)
-print(another)
+print(2+6)
