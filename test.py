@@ -1,3 +1,1 @@
-str = "broo what"
-another = list(str)
-print(2+6)
+print( (0%2)==0)
