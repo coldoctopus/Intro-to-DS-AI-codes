@@ -1,1 +1,2 @@
-print( (0%2)==0)
+import sys
+print(sys.version)
